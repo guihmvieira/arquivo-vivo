@@ -2,4 +2,5 @@
   <Project Path="../M01.Logica/M01.Logica.csproj" Id="744e2ac7-db23-4529-8c44-a113ed7c2df9" />
   <Project Path="Ficha de requerimento/Ficha de requerimento.csproj" Id="474c4eca-640d-4fd5-b7e0-7171432d0dde" />
   <Project Path="OlaArquivoVivo/OlaArquivoVivo.csproj" />
+  <Project Path="Quanto tempo leva o acervo/Quanto tempo leva o acervo.csproj" Id="cb0731bd-42f7-4660-9406-a13cbb39f97d" />
 </Solution>
