@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../M01.Logica/M01.Logica.csproj" Id="744e2ac7-db23-4529-8c44-a113ed7c2df9" />
+  <Project Path="Ficha de requerimento/Ficha de requerimento.csproj" Id="474c4eca-640d-4fd5-b7e0-7171432d0dde" />
   <Project Path="OlaArquivoVivo/OlaArquivoVivo.csproj" />
 </Solution>
