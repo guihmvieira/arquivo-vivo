@@ -23,8 +23,6 @@ namespace M01.Logica
             Console.WriteLine($"Meses Completos: {mesesCompletos}");
             Console.WriteLine($"Páginas que sobram para o mês seguinte: {paginasQueSobram}");
 
-            long cpfComoNumero = 00001234567890;
-            Console.WriteLine(cpfComoNumero);
         }
     }
 }
